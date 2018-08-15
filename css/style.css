@@ -1,0 +1,13 @@
+.input {
+	display: block;
+}
+
+img {
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+
+.face-box {
+	position: absolute;
+	border: solid red 2px;
+}
